@@ -1,0 +1,43 @@
+body {
+  min-height: 3500px;
+}
+.nav {
+  height: 90px;
+}
+.jumbo {
+  background-color: #00cec9;
+  min-height: 460px;
+  margin-top: 20;
+}
+
+.foto {
+  margin-top: 10em;
+}
+
+.about {
+  background-color: #000000;
+  height: 520px;
+  color: #ffffff;
+  font-size: x-large;
+}
+
+.porto {
+  background-color: #00cec9;
+}
+.contact {
+  background-color: #000000;
+  color: #ffffff;
+  height: 600px;
+}
+.n {
+  color: red;
+}
+.form-label {
+  font-size: large;
+}
+
+.footer {
+  height: 250px;
+  background-color: #00cec9;
+  font-size: large;
+}

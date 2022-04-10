@@ -1,0 +1,12 @@
+<?php 
+ include('components/sidebar.php');
+?>
+<?php 
+ include('components/navbar.php');
+?>
+<?php 
+ include('alur_konten.php');
+?>
+<?php 
+ include('components/footer.php');
+?>
